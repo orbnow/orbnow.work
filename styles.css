@@ -286,17 +286,11 @@ body {
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.10);
 }
 
-.photo-note {
-  margin: 12px 0 0;
-  font-size: 0.88rem;
-  line-height: 1.65;
-  color: rgba(15, 23, 40, 0.52);
-}
-
+.photo-note,
 .qr-note {
-  margin: 8px 0 0;
-  font-size: 0.88rem;
-  line-height: 1.65;
+  margin: 10px 0 0;
+  font-size: 0.84rem;
+  line-height: 1.6;
   color: rgba(15, 23, 40, 0.52);
 }
 
