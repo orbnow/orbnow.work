@@ -269,8 +269,12 @@ body {
   color: var(--accent-blue);
 }
 
+.contact-contact-block {
+  margin-top: 16px;
+}
+
 .contact-note {
-  margin: 18px 0 0;
+  margin: 12px 0 0;
   font-size: 0.96rem;
   line-height: 1.7;
   color: var(--text-soft);
